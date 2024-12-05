@@ -8,149 +8,159 @@ msgstr ""
 "Project-Id-Version: lapel\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-12 20:55+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-12-06 07:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/aspinwall-ui/lapel/"
+"ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: data/org.dithernet.lapel.desktop.in:3
 #: data/org.dithernet.lapel.appdata.xml.in:3 data/ui/window.ui:6
 #: data/ui/window.ui:74
 msgid "Assistant"
-msgstr ""
+msgstr "உதவியாளர்"
 
 #. TRANSLATORS: This is the description, as seen in the about dialog.
 #: data/org.dithernet.lapel.appdata.xml.in:4
 #: data/org.dithernet.lapel.appdata.xml.in:14 data/ui/about.ui:29
 msgid "Voice assistant GUI based on Mycroft"
-msgstr ""
+msgstr "மைக்ரோஃப்டை அடிப்படையாகக் கொண்ட குரல் உதவியாளர் GUI"
 
 #: data/org.dithernet.lapel.gschema.xml:6 data/ui/preferences.ui:17
 msgid "Websocket address"
-msgstr ""
+msgstr "வெப்சாக்கெட் முகவரி"
 
 #: data/org.dithernet.lapel.gschema.xml:7
 msgid "Websocket address used when connecting to Mycroft."
-msgstr ""
+msgstr "மைக்ரோஃப்டுடன் இணைக்கும்போது பயன்படுத்தப்படும் வெப்சாக்கெட் முகவரி."
 
 #: data/org.dithernet.lapel.gschema.xml:14
 msgid "Websocket port"
-msgstr ""
+msgstr "வெப்சாக்கெட் துறைமுகம்"
 
 #: data/org.dithernet.lapel.gschema.xml:15
 msgid "Websocket port used when connecting to Mycroft."
-msgstr ""
+msgstr "மைக்ரோஃப்டுடன் இணைக்கும்போது பயன்படுத்தப்படும் வெப்சாக்கெட் துறைமுகம்."
 
 #. TRANSLATORS: You can also translate "contributors" as "programmers" or "developers".
 #: data/ui/about.ui:31
 msgid "Copyright © 2022 Aspinwall contributors"
-msgstr ""
+msgstr "பதிப்புரிமை © 2022 ஆச்பின்வால் பங்களிப்பாளர்கள்"
 
 #: data/ui/pair.ui:6
 msgid "Pairing"
-msgstr ""
+msgstr "இணைத்தல்"
 
 #: data/ui/pair.ui:44
 msgid "Your Pairing Code:"
-msgstr ""
+msgstr "உங்கள் இணைத்தல் குறியீடு:"
 
 #: data/ui/pair.ui:72
 msgid ""
 "Go to <a href=\"https://account.mycroft.ai/pair\">account.mycroft.ai/pair</"
 "a> to pair your device. When asked, input the code displayed above."
 msgstr ""
+"உங்கள் சாதனத்தை இணைக்க <a href = \"https://account.mycroft.ai/pair\"> account."
+"mycroft.ai/pair </a> க்குச் செல்லவும். கேட்டால், மேலே காட்டப்பட்டுள்ள குறியீட்டை உள்ளிடவும்."
 
 #: data/ui/pair.ui:85
 msgid ""
 "If you do not have a Mycroft account yet, <a href=\"https://account.mycroft."
 "ai\">create one</a>."
 msgstr ""
+"உங்களிடம் இன்னும் மைக்ரோஃப்ட் கணக்கு இல்லை என்றால், <a href = \"https://account.mycroft.ai\"> "
+"ஒன்றை உருவாக்கவும் </a>."
 
 #: data/ui/preferences.ui:13
 msgid "Connection"
-msgstr ""
+msgstr "இணைப்பு"
 
 #: data/ui/preferences.ui:18
 msgid ""
 "Address and port to use when connecting to Mycroft's websocket. You will "
 "need to restart Assistant before the changes take effect."
 msgstr ""
+"மைக்ரோஃப்டின் வெப்சாக்கெட்டுடன் இணைக்கும்போது பயன்படுத்த வேண்டிய முகவரி மற்றும் துறை. மாற்றங்கள் நடைமுறைக்கு வருவதற்கு முன்பு"
+" நீங்கள் உதவியாளரை மறுதொடக்கம் செய்ய வேண்டும்."
 
 #: data/ui/skills.ui:47
 msgid "No Results Found"
-msgstr ""
+msgstr "முடிவுகள் எதுவும் கிடைக்கவில்லை"
 
 #: data/ui/skills.ui:48
 msgid "Try a different search query"
-msgstr ""
+msgstr "வேறு தேடல் வினவலை முயற்சிக்கவும்"
 
 #. TRANSLATORS: Used for skill usage examples
 #: data/ui/skillview.ui:56
 msgid "Examples"
-msgstr ""
+msgstr "எடுத்துக்காட்டுகள்"
 
 #: data/ui/speechview.ui:45
 msgid "Speak to the Microphone"
-msgstr ""
+msgstr "மைக்ரோஃபோனுடன் பேசுங்கள்"
 
 #: data/ui/window.ui:37
 msgid "Search skills"
-msgstr ""
+msgstr "தேடல் திறன்"
 
 #: data/ui/window.ui:58
 msgid "Could Not Connect"
-msgstr ""
+msgstr "இணைக்க முடியவில்லை"
 
 #: data/ui/window.ui:59
 msgid ""
 "Failed to connect to Mycroft websocket. Make sure that Mycroft is running."
 msgstr ""
+"மைக்ரோஃப்ட் வெப்சாக்கெட்டுடன் இணைக்கத் தவறிவிட்டது. மைக்ரோஃப்ட் இயங்குகிறது என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்."
 
 #: data/ui/window.ui:86
 msgid "Skills"
-msgstr ""
+msgstr "திறன்கள்"
 
 #: data/ui/window.ui:105
 msgid "_Preferences"
-msgstr ""
+msgstr "_ முனைகள்"
 
 #: data/ui/window.ui:109
 msgid "_About Assistant"
-msgstr ""
+msgstr "உதவியாளர்பற்றி (_A)"
 
 #: data/ui/window.ui:113
 msgid "_Quit"
-msgstr ""
+msgstr "வெளியேறு (_Q)"
 
 #. TRANSLATORS: You can also translate this as "developers".
 #: src/main.py:90
 msgid "Aspinwall contributors"
-msgstr ""
+msgstr "ஆச்பின்வால் பங்களிப்பாளர்கள்"
 
 #. TRANSLATORS: Shown in the skills menu when no a skill has no provided description.
 #: src/types/skill.py:208
 msgid "No description found."
-msgstr ""
+msgstr "எந்த விளக்கமும் கிடைக்கவில்லை."
 
 #. TRANSLATORS: Shown in the skills menu when no a skill has no provided examples.
 #: src/types/skill.py:220
 msgid "No examples found."
-msgstr ""
+msgstr "எடுத்துக்காட்டுகள் எதுவும் கிடைக்கவில்லை."
 
 #. TRANSLATORS: Shown in the skills menu when a skill's information could not be found.
 #: src/types/skill.py:228
 msgid "Skill data not found."
-msgstr ""
+msgstr "திறன் தரவு காணப்படவில்லை."
 
 #. TRANSLATORS: "Confirm" button, used for Confirm/Cancel dialogs
 #: src/wrappers/dialog.py:74
 msgid "Confirm"
-msgstr ""
+msgstr "உறுதிப்படுத்தவும்"
 
 #. TRANSLATORS: "Cancel" button, used for Confirm/Cancel dialogs
 #: src/wrappers/dialog.py:76
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
